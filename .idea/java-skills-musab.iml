@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Task-3/3.1-Student-Grade-Manager/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task-2-basic-java-programming/2.1-user-information-system/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task-2-basic-java-programming/2.2-employee-payroll-system/src" isTestSource="false" />
     </content>
